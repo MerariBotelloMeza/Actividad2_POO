@@ -1,0 +1,8 @@
+package taller_10;
+
+public class Vehiculo {
+
+    public void moverse(){
+        System.out.println("el auto se mueve.");
+    }
+}

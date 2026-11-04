@@ -1,3 +1,4 @@
+package taller_9;
 public class Empleado extends Persona{
     private String departamento;
 

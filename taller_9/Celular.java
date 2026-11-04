@@ -1,3 +1,5 @@
+package taller_9;
+
 public class Celular extends Producto{
     public void mostraDetalles(){
         System.out.println(super.nombre);
